@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshuman17092005/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Anshuman17092005/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Anshuman17092005/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Anshuman17092005/DSA/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Anshuman17092005/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -189,4 +191,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Anshuman17092005/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Anshuman17092005/DSA/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Anshuman17092005/DSA/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Anshuman17092005/DSA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
