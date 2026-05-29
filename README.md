@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshuman17092005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshuman17092005/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Anshuman17092005/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Anshuman17092005/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/Anshuman17092005/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Anshuman17092005/DSA/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshuman17092005/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anshuman17092005/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Anshuman17092005/DSA/tree/main/0130-surrounded-regions/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,12 +189,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Anshuman17092005/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anshuman17092005/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anshuman17092005/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Anshuman17092005/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshuman17092005/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Anshuman17092005/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Anshuman17092005/DSA/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/Anshuman17092005/DSA/tree/main/0130-surrounded-regions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Anshuman17092005/DSA/tree/master/0222-count-complete-tree-nodes) |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Anshuman17092005/DSA/tree/main/0130-surrounded-regions/) | Medium |
 <!---LeetCode Topics End-->
