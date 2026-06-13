@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshuman17092005/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anshuman17092005/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anshuman17092005/DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Anshuman17092005/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Anshuman17092005/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Anshuman17092005/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Anshuman17092005/DSA/tree/master/0238-product-of-array-except-self) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anshuman17092005/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Anshuman17092005/DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Anshuman17092005/DSA/tree/main/0200-number-of-islands/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anshuman17092005/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anshuman17092005/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Anshuman17092005/DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Anshuman17092005/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshuman17092005/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Anshuman17092005/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Anshuman17092005/DSA/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Anshuman17092005/DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Anshuman17092005/DSA/tree/main/0200-number-of-islands/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Anshuman17092005/DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Anshuman17092005/DSA/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
