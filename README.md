@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshuman17092005/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anshuman17092005/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Anshuman17092005/DSA/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Anshuman17092005/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Anshuman17092005/DSA/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Anshuman17092005/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Anshuman17092005/DSA/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Anshuman17092005/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Anshuman17092005/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/Anshuman17092005/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Anshuman17092005/DSA/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Two Pointers
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Anshuman17092005/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Anshuman17092005/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Anshuman17092005/DSA/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Anshuman17092005/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anshuman17092005/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anshuman17092005/DSA/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/Anshuman17092005/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
