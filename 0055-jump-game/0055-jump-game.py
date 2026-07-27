@@ -12,4 +12,4 @@ class Solution(object):
             maxReach = max(maxReach,i + nums[i])
             if maxReach >= n:
                 return True
-        return False
+        return True
