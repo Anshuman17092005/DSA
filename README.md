@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anshuman17092005/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anshuman17092005/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anshuman17092005/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Anshuman17092005/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshuman17092005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshuman17092005/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anshuman17092005/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Anshuman17092005/DSA/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Anshuman17092005/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Anshuman17092005/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anshuman17092005/DSA/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshuman17092005/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Anshuman17092005/DSA/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Anshuman17092005/DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
