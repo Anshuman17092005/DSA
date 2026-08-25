@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Anshuman17092005/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anshuman17092005/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Anshuman17092005/DSA/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/Anshuman17092005/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anshuman17092005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Anshuman17092005/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshuman17092005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Anshuman17092005/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anshuman17092005/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Anshuman17092005/DSA/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Anshuman17092005/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Anshuman17092005/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshuman17092005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshuman17092005/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Anshuman17092005/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Anshuman17092005/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Anshuman17092005/DSA/tree/main/0200-number-of-islands/) | Medium |
 ## Enumeration
