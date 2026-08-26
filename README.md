@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Anshuman17092005/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Anshuman17092005/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anshuman17092005/DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Anshuman17092005/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Anshuman17092005/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Anshuman17092005/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Anshuman17092005/DSA/tree/main/0063-unique-paths-ii/) | Medium |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Anshuman17092005/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anshuman17092005/DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Anshuman17092005/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Anshuman17092005/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Anshuman17092005/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Anshuman17092005/DSA/tree/main/0063-unique-paths-ii/) | Medium |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Anshuman17092005/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Anshuman17092005/DSA/tree/master/0169-majority-element) |
 ## Counting
 | Problem Name | Difficulty |
