@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Anshuman17092005/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Anshuman17092005/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anshuman17092005/DSA/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Anshuman17092005/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Anshuman17092005/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Anshuman17092005/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Anshuman17092005/DSA/tree/master/0057-insert-interval) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Anshuman17092005/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Anshuman17092005/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Anshuman17092005/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Anshuman17092005/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Anshuman17092005/DSA/tree/master/0189-rotate-array) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Anshuman17092005/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Anshuman17092005/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Anshuman17092005/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0130-surrounded-regions](https://github.com/Anshuman17092005/DSA/tree/main/0130-surrounded-regions/) | Medium |
