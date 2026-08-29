@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Anshuman17092005/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Anshuman17092005/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Anshuman17092005/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Anshuman17092005/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Anshuman17092005/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Anshuman17092005/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Anshuman17092005/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Anshuman17092005/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Anshuman17092005/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Anshuman17092005/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anshuman17092005/DSA/tree/master/0242-valid-anagram) |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Anshuman17092005/DSA/tree/main/0062-unique-paths/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Anshuman17092005/DSA/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
