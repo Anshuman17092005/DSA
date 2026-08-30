@@ -285,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Anshuman17092005/DSA/tree/main/0050-powx-n/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Anshuman17092005/DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
