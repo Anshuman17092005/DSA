@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Anshuman17092005/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Anshuman17092005/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Anshuman17092005/DSA/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Anshuman17092005/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Anshuman17092005/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Anshuman17092005/DSA/tree/master/0189-rotate-array) |
@@ -280,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Anshuman17092005/DSA/tree/main/0056-merge-intervals/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Anshuman17092005/DSA/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
