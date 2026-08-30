@@ -9,7 +9,6 @@ class Solution(object):
         for i in nums:
             if count == 0:
                 candidate = i
-                count = 0
             if i == candidate:
                 count += 1
             else:
