@@ -5,6 +5,7 @@ class Solution(object):
         :type s: List[int]
         :rtype: int
         """
+        ans = 0
         g.sort()
         s.sort()
         i = 0
@@ -12,6 +13,8 @@ class Solution(object):
         while i < len(g) and j < len(s):
             if s[j] >= g[i]:
                 i += 1
-            j += 1 
-        return i
-        
+                j += 1
+                ans += 1
+            else:
+                j += 1
+        return ans
