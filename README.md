@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Anshuman17092005/DSA/tree/main/0056-merge-intervals/) | Medium |
+| [0455-assign-cookies](https://github.com/Anshuman17092005/DSA/tree/main/0455-assign-cookies/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
