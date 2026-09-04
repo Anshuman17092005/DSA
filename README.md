@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshuman17092005/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Anshuman17092005/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anshuman17092005/DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Anshuman17092005/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0392-is-subsequence](https://github.com/Anshuman17092005/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Anshuman17092005/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Anshuman17092005/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anshuman17092005/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anshuman17092005/DSA/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshuman17092005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Anshuman17092005/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Anshuman17092005/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Anshuman17092005/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Anshuman17092005/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Anshuman17092005/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Anshuman17092005/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anshuman17092005/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Anshuman17092005/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Tree
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Anshuman17092005/DSA/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Anshuman17092005/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Anshuman17092005/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
