@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Anshuman17092005/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anshuman17092005/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0206-reverse-linked-list](https://github.com/Anshuman17092005/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anshuman17092005/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Anshuman17092005/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Tree
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Anshuman17092005/DSA/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Anshuman17092005/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
