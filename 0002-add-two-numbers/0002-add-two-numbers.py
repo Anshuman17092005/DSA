@@ -18,13 +18,9 @@ class Solution(object):
             if l1:
                 s += l1.val
                 l1 = l1.next
-            else:
-                s += 0
             if l2:
                 s += l2.val
                 l2 = l2.next
-            else:
-                s += 0
             s += c
             c = s // 10
             s = s % 10
