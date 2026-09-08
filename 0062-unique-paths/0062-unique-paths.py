@@ -5,11 +5,17 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        prev = [1] * n
-        for i in range(1,m):
-            curr = [1]*n
-            for j in range(1,n):
-                curr[j] = prev[j] + curr[j-1]
-            prev = curr
-        
-        return prev[n-1]
+        dp = [[-1]*(n+1) for _ in range(m+1)]
+        dp[0][0] = 1
+        for i in range(m):
+            for j in range(n):
+                if i == 0 and j == 0:
+                    continue
+                up = 0
+                left = 0
+                if i > 0:
+                    up = dp[i-1][j]
+                if j > 0:
+                    left = dp[i][j-1]
+                dp[i][j] = up+left
+        return dp[m-1][n-1]
