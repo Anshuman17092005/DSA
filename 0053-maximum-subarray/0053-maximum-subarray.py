@@ -4,9 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        curr = 0
+        total = 0
         maxi = float('-inf')
-        for right in range(len(nums)):
-            curr = max(curr + nums[right],nums[right])
-            maxi = max(curr,maxi)
+        for i in range(len(nums)):
+            total += nums[i]
+            maxi = max(maxi,total)
+            if total < 0:
+                total = 0
         return maxi
