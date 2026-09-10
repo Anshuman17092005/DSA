@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Anshuman17092005/DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Anshuman17092005/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Anshuman17092005/DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0217-contains-duplicate](https://github.com/Anshuman17092005/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Anshuman17092005/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Anshuman17092005/DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Anshuman17092005/DSA/tree/main/0229-majority-element-ii/) | Medium |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anshuman17092005/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Anshuman17092005/DSA/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Anshuman17092005/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Anshuman17092005/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Anshuman17092005/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Anshuman17092005/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Anshuman17092005/DSA/tree/master/0274-h-index) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anshuman17092005/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anshuman17092005/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Anshuman17092005/DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Anshuman17092005/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Anshuman17092005/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anshuman17092005/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Anshuman17092005/DSA/tree/master/0242-valid-anagram) |
