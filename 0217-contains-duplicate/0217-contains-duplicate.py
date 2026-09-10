@@ -4,10 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        freq = {}
+        seen = set()
         for num in nums:
-            freq[num] = freq.get(num,0)+1
-        for i in nums:
-            if freq[i] >= 2:
+            if num in seen:
                 return True
+            seen.add(num)
         return False
