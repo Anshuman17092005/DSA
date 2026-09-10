@@ -4,11 +4,12 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        maxi = 0
-        mini = float('inf')
-        for i in prices:
-            if i < mini:
-                mini = i
-            profit = i - mini
-            maxi = max(profit,maxi)
+        mini = prices[0]
+        maxi = float('-inf')
+        profit = 0
+        for price in prices:
+            if price < mini:
+                mini = price
+            profit = price - mini
+            maxi = max(maxi,profit)
         return maxi
