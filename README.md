@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Anshuman17092005/DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Anshuman17092005/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/Anshuman17092005/DSA/tree/main/0322-coin-change/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Anshuman17092005/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshuman17092005/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/Anshuman17092005/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/Anshuman17092005/DSA/tree/main/0455-assign-cookies/) | Easy |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Anshuman17092005/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Anshuman17092005/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Anshuman17092005/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Anshuman17092005/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/Anshuman17092005/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Anshuman17092005/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Anshuman17092005/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anshuman17092005/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Anshuman17092005/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Anshuman17092005/DSA/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Anshuman17092005/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Anshuman17092005/DSA/tree/main/0455-assign-cookies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anshuman17092005/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Anshuman17092005/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Anshuman17092005/DSA/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Anshuman17092005/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshuman17092005/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Anshuman17092005/DSA/tree/master/0383-ransom-note) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Anshuman17092005/DSA/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshuman17092005/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Anshuman17092005/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0349-intersection-of-two-arrays](https://github.com/Anshuman17092005/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
