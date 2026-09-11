@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Anshuman17092005/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Anshuman17092005/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Anshuman17092005/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/Anshuman17092005/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Anshuman17092005/DSA/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anshuman17092005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Anshuman17092005/DSA/tree/master/0088-merge-sorted-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anshuman17092005/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Anshuman17092005/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Anshuman17092005/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Anshuman17092005/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anshuman17092005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anshuman17092005/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Anshuman17092005/DSA/tree/master/0088-merge-sorted-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Anshuman17092005/DSA/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Anshuman17092005/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Anshuman17092005/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Anshuman17092005/DSA/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Anshuman17092005/DSA/tree/master/0169-majority-element) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Anshuman17092005/DSA/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Anshuman17092005/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/Anshuman17092005/DSA/tree/main/0455-assign-cookies/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -380,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anshuman17092005/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Anshuman17092005/DSA/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
