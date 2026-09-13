@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Anshuman17092005/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshuman17092005/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Anshuman17092005/DSA/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anshuman17092005/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Anshuman17092005/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Anshuman17092005/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Anshuman17092005/DSA/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Anshuman17092005/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Anshuman17092005/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Anshuman17092005/DSA/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anshuman17092005/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Anshuman17092005/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Anshuman17092005/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## String Matching
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshuman17092005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anshuman17092005/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Anshuman17092005/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anshuman17092005/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Anshuman17092005/DSA/tree/main/0567-permutation-in-string/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
