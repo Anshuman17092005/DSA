@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Anshuman17092005/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshuman17092005/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Anshuman17092005/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anshuman17092005/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshuman17092005/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Anshuman17092005/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Anshuman17092005/DSA/tree/main/0567-permutation-in-string/) | Medium |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anshuman17092005/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anshuman17092005/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/Anshuman17092005/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anshuman17092005/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Anshuman17092005/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Anshuman17092005/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Anshuman17092005/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anshuman17092005/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Anshuman17092005/DSA/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshuman17092005/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Anshuman17092005/DSA/tree/main/0567-permutation-in-string/) | Medium |
@@ -407,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Anshuman17092005/DSA/tree/main/0075-sort-colors/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anshuman17092005/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
