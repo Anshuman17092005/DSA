@@ -4,31 +4,21 @@
 #         self.val = val
 #         self.next = next
 class Solution(object):
-    def reverse(self,head):
-        prev = None
-        temp = head
-        while temp:
-            front = temp.next
-            temp.next = prev
-            prev = temp
-            temp = front
-        return prev
     def removeNthFromEnd(self, head, n):
         """
         :type head: Optional[ListNode]
         :type n: int
         :rtype: Optional[ListNode]
         """
-        if head.next is None:
-            return None
-        prev = self.reverse(head)
-        if n == 1:
-            prev = prev.next
-            return self.reverse(prev)
-        i = 0
-        curr = prev
-        while i < n-2:
-            i += 1
-            curr = curr.next
-        curr.next = curr.next.next
-        return self.reverse(prev)
+        dummy = ListNode()
+        dummy.next = head
+        slow = dummy
+        fast = dummy
+        while n > 0 and fast:
+            fast = fast.next
+            n -= 1
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next
+        slow.next = slow.next.next
+        return dummy.next
