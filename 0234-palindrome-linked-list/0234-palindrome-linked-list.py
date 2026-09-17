@@ -10,22 +10,22 @@ class Solution(object):
         :rtype: bool
         """
         slow = head
-        fast = head
+        fast = head.next
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
+        second = slow.next
+        slow.next = None
         prev = None
-        temp = slow
+        temp = second
         while temp:
             front = temp.next
             temp.next = prev
             prev = temp
             temp = front
-        curr1 = head
-        curr2 = prev
-        while curr2 is not None:
-            if curr1.val != curr2.val:
+        while prev:
+            if head.val != prev.val:
                 return False
-            curr1 = curr1.next
-            curr2 = curr2.next
+            head = head.next
+            prev = prev.next
         return True
