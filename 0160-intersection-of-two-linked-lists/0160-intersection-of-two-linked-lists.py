@@ -10,15 +10,17 @@ class Solution(object):
         :type head1, head1: ListNode
         :rtype: ListNode
         """
-        p1 = headA
-        p2 = headB
-        while p1 != p2:
-            if p1 is None:
-                p1 = headB
+        slow = headA
+        fast = headB
+        while True:
+            if slow == fast:
+                return slow
+            if not slow:
+                slow =headB
             else:
-                p1 = p1.next
-            if p2 is None:
-                p2 = headA
+                slow = slow.next
+            if not fast:
+                fast = headA
             else:
-                p2 = p2.next
-        return p1      
+                fast = fast.next
+        return None
