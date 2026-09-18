@@ -12,21 +12,18 @@ class Solution(object):
         """
         dummy = ListNode()
         temp = dummy
-        c = 0
-        while l1 or l2:
-            s = 0
+        carry = 0
+        total = 0
+        while l1 or l2 or carry:
+            value1 = l1.val if l1 else 0
+            value2 = l2.val if l2 else 0
+            total = value1 + value2 + carry
+            carry = total // 10
+            digit = ListNode(total%10)
+            temp.next = digit
+            temp = temp.next
             if l1:
-                s += l1.val
                 l1 = l1.next
             if l2:
-                s += l2.val
                 l2 = l2.next
-            s += c
-            c = s // 10
-            s = s % 10
-            temp.next = ListNode(s)
-            temp = temp.next
-        if c != 0:
-            temp.next = ListNode(c)
-            temp = temp.next 
         return dummy.next
