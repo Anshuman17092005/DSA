@@ -434,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Anshuman17092005/DSA/tree/main/0069-sqrtx/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Anshuman17092005/DSA/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
