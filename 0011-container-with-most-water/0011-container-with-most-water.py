@@ -5,14 +5,14 @@ class Solution(object):
         :rtype: int
         """
         n = len(height)
+        left = 0
+        right = n - 1
         maxi = float('-inf')
-        l = 0
-        r = n - 1
-        while l < r:
-            area = (r-l) * min(height[l],height[r])
-            if height[l] < height[r]:
-                l += 1
+        while left < right:
+            area = (right-left)*min(height[left],height[right])
+            maxi = max(maxi,area)
+            if height[left] < height[right]:
+                left += 1
             else:
-                r -= 1
-            maxi = max(area,maxi)
+                right -= 1
         return maxi
