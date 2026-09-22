@@ -5,10 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        total = 0
         n = len(numbers)
         left = 0
-        right = n-1
+        right = n - 1
+        total = 0
         while left < right:
             total = numbers[left] + numbers[right]
             if total > target:
