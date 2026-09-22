@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """
         i = 0
-        j = 1
+        j = 0
         while j < len(nums):
             if nums[i] != nums[j]:
                 i += 1
