@@ -7,7 +7,7 @@ class Solution(object):
         """
         freq = {}
         for i in range(len(nums)):
-            x = target - nums[i]
-            if x in freq:
-                return [freq[x],i]
-            freq[nums[i]] = i
+            needed = target - nums[i]
+            if needed in freq:
+                return [i,freq[needed]]
+            freq[nums[i]] = freq.get(nums[i],i)
