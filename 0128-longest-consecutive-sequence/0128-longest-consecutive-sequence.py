@@ -7,10 +7,10 @@ class Solution(object):
         count = 0
         seen = set(nums)
         for num in seen:
-            if num-1 not in seen:
+            if num -1 not in seen:
                 current = num
-                length = 0
-                while current in seen:
+                length = 1
+                while current+1 in seen:
                     current += 1
                     length += 1
                 count = max(count,length)
