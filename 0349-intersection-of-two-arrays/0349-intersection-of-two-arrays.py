@@ -6,8 +6,8 @@ class Solution(object):
         :rtype: List[int]
         """
         result = []
-        nums1 = list(set(nums1))
+        seen = set(nums2)
         for num in nums1:
-            if num in nums2:
+            if num in seen and num not in result:
                 result.append(num)
         return result
