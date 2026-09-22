@@ -5,14 +5,14 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        current_sum = 0
-        previous_sum = 0
         count = 0
         freq = {0:1}
+        curr = 0
+        prev = 0
         for num in nums:
-            current_sum += num
-            needed = current_sum-k
-            if needed in freq:
-                count += freq[needed]
-            freq[current_sum] = freq.get(current_sum,0)+1
+            curr += num
+            prev = curr - k
+            if prev in freq:
+                count += freq[prev]
+            freq[curr] = freq.get(curr,0)+1
         return count
