@@ -4,9 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
+        n = len(nums)
         low = 0
+        high = n -1
         mid = 0
-        high = len(nums)-1
         while mid <= high:
             if nums[mid] == 0:
                 nums[low],nums[mid] = nums[mid],nums[low]
@@ -17,4 +18,3 @@ class Solution(object):
             else:
                 nums[mid],nums[high] = nums[high],nums[mid]
                 high -= 1
-        return nums
