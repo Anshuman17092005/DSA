@@ -5,10 +5,10 @@ class Solution(object):
         :rtype: int
         """
         total = 0
-        maxi = float('-inf')
-        for i in range(len(nums)):
-            total += nums[i]
-            maxi = max(maxi,total)
+        maxSum = float('-inf')
+        for num in nums:
+            total += num
+            maxSum = max(maxSum,total)
             if total < 0:
                 total = 0
-        return maxi
+        return maxSum
