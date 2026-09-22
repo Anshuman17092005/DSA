@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Anshuman17092005/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Anshuman17092005/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0860-lemonade-change](https://github.com/Anshuman17092005/DSA/tree/main/0860-lemonade-change/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Anshuman17092005/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anshuman17092005/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Anshuman17092005/DSA/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Dynamic Programming
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Anshuman17092005/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Anshuman17092005/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshuman17092005/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Anshuman17092005/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Anshuman17092005/DSA/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anshuman17092005/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Anshuman17092005/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anshuman17092005/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Anshuman17092005/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Anshuman17092005/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshuman17092005/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Anshuman17092005/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Anshuman17092005/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
