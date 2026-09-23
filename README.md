@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Anshuman17092005/DSA/tree/main/0704-binary-search/) | Easy |
 | [0860-lemonade-change](https://github.com/Anshuman17092005/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshuman17092005/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anshuman17092005/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Anshuman17092005/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anshuman17092005/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Anshuman17092005/DSA/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Anshuman17092005/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Anshuman17092005/DSA/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshuman17092005/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anshuman17092005/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Anshuman17092005/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
