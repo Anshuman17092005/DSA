@@ -21,4 +21,4 @@ class Solution(object):
                     slow = slow.next
                     fast = fast.next
                 return slow
-        return None        
+        return None
