@@ -4,14 +4,14 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
-        left = 0
-        right = x
-        while left <= right:
-            mid = (left + right) // 2
-            if mid*mid > x:
-                right = mid - 1
-            elif mid*mid < x:
-                left = mid + 1
+        low = 0
+        high = x
+        answer = 0
+        while low <= high:
+            mid = (low+high)//2
+            if mid * mid <= x:
+                answer = mid
+                low = mid+1
             else:
-                return mid
-        return right
+                high = mid-1
+        return answer
