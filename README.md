@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Anshuman17092005/DSA/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Anshuman17092005/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshuman17092005/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0410-split-array-largest-sum](https://github.com/Anshuman17092005/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Anshuman17092005/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/Anshuman17092005/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anshuman17092005/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Anshuman17092005/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/Anshuman17092005/DSA/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/Anshuman17092005/DSA/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Anshuman17092005/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Anshuman17092005/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Anshuman17092005/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Anshuman17092005/DSA/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshuman17092005/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anshuman17092005/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Anshuman17092005/DSA/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/Anshuman17092005/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/Anshuman17092005/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Anshuman17092005/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/Anshuman17092005/DSA/tree/main/0860-lemonade-change/) | Easy |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anshuman17092005/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Anshuman17092005/DSA/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Anshuman17092005/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Anshuman17092005/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshuman17092005/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Anshuman17092005/DSA/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Anshuman17092005/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Anshuman17092005/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Anshuman17092005/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Anshuman17092005/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anshuman17092005/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Anshuman17092005/DSA/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshuman17092005/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
