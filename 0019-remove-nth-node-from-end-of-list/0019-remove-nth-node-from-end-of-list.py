@@ -14,7 +14,7 @@ class Solution(object):
         dummy.next = head
         slow = dummy
         fast = dummy
-        while n > 0 and fast:
+        while n > 0 and fast.next:
             fast = fast.next
             n -= 1
         while fast and fast.next:
