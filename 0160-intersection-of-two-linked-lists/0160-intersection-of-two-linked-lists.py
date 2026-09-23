@@ -16,7 +16,7 @@ class Solution(object):
             if slow == fast:
                 return slow
             if not slow:
-                slow =headB
+                slow = headB
             else:
                 slow = slow.next
             if not fast:
