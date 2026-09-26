@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anshuman17092005/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anshuman17092005/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Anshuman17092005/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Anshuman17092005/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Anshuman17092005/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Anshuman17092005/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Anshuman17092005/DSA/tree/main/0056-merge-intervals/) | Medium |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Anshuman17092005/DSA/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/Anshuman17092005/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Anshuman17092005/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Anshuman17092005/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Anshuman17092005/DSA/tree/master/0088-merge-sorted-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anshuman17092005/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshuman17092005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Anshuman17092005/DSA/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Anshuman17092005/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Anshuman17092005/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Anshuman17092005/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Anshuman17092005/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anshuman17092005/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Anshuman17092005/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anshuman17092005/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Anshuman17092005/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Anshuman17092005/DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Anshuman17092005/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Anshuman17092005/DSA/tree/master/0125-valid-palindrome) |
