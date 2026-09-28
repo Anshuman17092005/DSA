@@ -13,13 +13,16 @@ class MinStack(object):
         if not self.minStack:
             self.minStack.append(value)
         else:
-            self.minStack.append(min(value,self.minStack[-1]))
+            if value <= self.minStack[-1]:
+                self.minStack.append(value)
+
     def pop(self):
         """
         :rtype: None
         """
-        self.stack.pop()
-        self.minStack.pop()       
+        x = self.stack.pop()
+        if x == self.minStack[-1]:
+            self.minStack.pop()
     def top(self):
         """
         :rtype: int
