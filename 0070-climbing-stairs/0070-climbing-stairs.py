@@ -4,11 +4,11 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        prev = 1
-        prev2 = 1
-        for i in range(2,n+1):
-            curr = prev + prev2
-            prev2 = prev
-            prev = curr
-        return prev
-        
+        dp = [-1] * (n+1)
+        def solve(i,dp):
+            dp[0] = 1
+            dp[1] = 1
+            for i in range(2,n+1):
+                dp[i] = dp[i-1] + dp[i-2]
+            return dp[i]
+        return solve(n,dp)
