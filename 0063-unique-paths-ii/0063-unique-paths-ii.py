@@ -8,25 +8,15 @@ class Solution(object):
             return 0
         m = len(obstacleGrid)
         n = len(obstacleGrid[0])
-        dp = [[0]*n for _ in range(m)]
-        dp[0][0] = 1
-        blocked = False
-
+        prev = [0] * n
         for i in range(m):
-            if obstacleGrid[i][0] == 1:
-                blocked = True
-            if not blocked:
-                dp[i][0] = 1
-        blocked = False
-        for j in range(n):
-            if obstacleGrid[0][j] == 1:
-                blocked = True
-            if not blocked:
-                dp[0][j] = 1
-        for i in range(1,m):
-            for j in range(1,n):
+            curr = [0] * n
+            for j in range(n):
                 if obstacleGrid[i][j] == 1:
-                    dp[i][j] = 0
+                    curr[j] = 0
+                elif i == 0 and j == 0:
+                    curr[j] = 1
                 else:
-                    dp[i][j] = dp[i-1][j] + dp[i][j-1]
-        return dp[m-1][n-1]
+                    curr[j] = prev[j] + curr[j-1]
+            prev = curr
+        return prev[n-1]
